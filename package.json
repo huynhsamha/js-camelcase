@@ -1,7 +1,7 @@
 {
   "name": "js-camelcase",
-  "version": "1.0.1",
-  "description": "camelcase the keys of an object",
+  "version": "1.1.0",
+  "description": "Camelcase the keys of an object",
   "main": "index.js",
   "scripts": {
     "test": "node test"
