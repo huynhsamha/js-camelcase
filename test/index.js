@@ -1,4 +1,4 @@
-const toCamelCase = require('./../index');
+const toCamelCase = require('../index');
 
 console.log(toCamelCase('foo-bar'));
 console.log(toCamelCase('foo_bar'));

@@ -62,6 +62,3 @@ function toCamelCase(str) {
 		.toLowerCase()
 		.replace(/[_.\- ]+(\w|$)/g, (m, p1) => p1.toUpperCase());
 }
-
-
-module.exports = toCamelCase;
