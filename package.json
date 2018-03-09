@@ -1,7 +1,7 @@
 {
   "name": "js-camelcase",
-  "version": "1.1.0",
-  "description": "Camelcase the keys of an object",
+  "version": "1.2.0",
+  "description": "JavaScript convert string to camelCase - Use for both Node.JS and Browser.",
   "main": "index.js",
   "scripts": {
     "test": "node test"
@@ -17,7 +17,10 @@
     "extend",
     "case",
     "browser",
-    "browserify"
+    "browserify",
+    "convert",
+    "js-convert-case",
+    "convert-case"
   ],
   "author": {
     "name": "huynhsamha",
